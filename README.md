@@ -16,6 +16,7 @@ Digite o nome do Jogador
 
 Será jogado os dados e se aparecer "você comeu meu cerebro" significa que você morreu. E se aparecer "A vitima Escapou" significa que você ganhou. o dado será jogado 3 vezes, e você tem 3 vidas. Ganha quem Escapar como todas as vidas.
 
+![1](https://user-images.githubusercontent.com/50500849/207651795-1cde4262-d800-4ecf-9e8f-7900e8a115f8.png)
 
 
 
